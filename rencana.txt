@@ -1,4 +1,7 @@
 Membuat rencana
 -javascript
+ - framework
+   - vue
+   - react
 -PHP
 -Data structure
