@@ -1,4 +1,8 @@
 Membuat rencana
 -javascript
+ - framework
+   -angular
+   - react
 -PHP
 -Data structure
+-phyton
