@@ -1,0 +1,4 @@
+Membuat rencana
+-javascript
+-PHP
+-Data structure
